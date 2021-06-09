@@ -1,2 +1,6 @@
 # TP-Linux
-Computación Aplicada 1C
+Trabajo práctico Computación Aplicada 1C
+
+Integrantes:
+
+
