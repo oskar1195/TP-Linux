@@ -4,7 +4,6 @@ El proyecto se encuentra comprimido en formato zip. Cada carpeta corresponde a c
 
 Nombre del grupo: whereis tp. 
 Los integrantes del grupo son:
-
 Oscar Agustin, 
 Tomas,
 Alex,
