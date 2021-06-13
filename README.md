@@ -7,6 +7,7 @@ Nombre del grupo: whereis tp.
 Los integrantes somos:
 Oscar Agustin, 
 Tomas,
+Alan,
 Alex,
 Joaquin,
 Manuela. 
