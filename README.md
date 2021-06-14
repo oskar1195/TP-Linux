@@ -8,6 +8,8 @@ Los integrantes somos:
 Oscar Agustin, 
 Tomas,
 Alan,
+Joaquin, 
+Alex,
 Manuela. 
 
 
